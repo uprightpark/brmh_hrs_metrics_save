@@ -4,7 +4,7 @@
 
 보라매병원 보안 정책상 해당 시스템은 사내 IP에서만 접근이 가능하므로, 외부 환경 또는 다른 기관에서 사용할 경우 접근 방식 및 일부 설정을 수정해야 합니다. 현재 프로그램은 Windows 운영체제에서만 지원됩니다.
 
-보라매병원 HRS: http://hrs-metrics.brmh.org/
+보라매병원 HRS 지표모니터: http://hrs-metrics.brmh.org/
 
 실행 프로그램 위치: dist\hrs_metrics_save.exe
 
